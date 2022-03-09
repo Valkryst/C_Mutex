@@ -1,5 +1,5 @@
-The foci of this repository are the [mutex.c](https://github.com/Valkryst/C_Mutex/master/src/mutex.c)
-and [mutex.h](https://github.com/Valkryst/C_Mutex/master/src/mutex.h)
+The foci of this repository are the [mutex.c](https://github.com/Valkryst/C_Mutex/blob/main/src/mutex.c)
+and [mutex.h](https://github.com/Valkryst/C_Mutex/blob/main/src/mutex.h)
 files. They simplify the creation, destruction, and use of
 [mutex locks](https://en.wikipedia.org/wiki/Lock_(computer_science)).
 
@@ -9,7 +9,7 @@ Add `mutex.c` and `mutex.h` to your project, and add
 [-pthread flag](https://stackoverflow.com/a/2127819/13279616) to your compile
 flags.
 
-See the provided [Makefile](https://github.com/Valkryst/C_Mutex/master/Makefile)
+See the provided [Makefile](https://github.com/Valkryst/C_Mutex/blob/main/Makefile)
 as a reference.
 
 ## Dependencies
